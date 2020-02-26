@@ -1,4 +1,2 @@
 # Analysis using SQL
-Data Modeling-ERD
-Data Engineering-table schema
-Data Analysis
+This assignment requires Data Modeling (ERD), Data Engineering (table schema), and Data Analysis
